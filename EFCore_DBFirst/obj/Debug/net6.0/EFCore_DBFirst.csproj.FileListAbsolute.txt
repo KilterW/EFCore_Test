@@ -1,0 +1,14 @@
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\bin\Debug\net6.0\EFCore_DBFirst.deps.json
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\bin\Debug\net6.0\EFCore_DBFirst.runtimeconfig.json
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\bin\Debug\net6.0\EFCore_DBFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\bin\Debug\net6.0\EFCore_DBFirst.pdb
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.csproj.AssemblyReference.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.AssemblyInfoInputs.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.AssemblyInfo.cs
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.csproj.CoreCompileInputs.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\refint\EFCore_DBFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.pdb
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\EFCore_DBFirst.genruntimeconfig.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_DBFirst\obj\Debug\net6.0\ref\EFCore_DBFirst.dll

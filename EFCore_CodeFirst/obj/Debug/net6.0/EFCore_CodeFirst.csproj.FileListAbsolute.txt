@@ -1,0 +1,15 @@
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\bin\Debug\net6.0\appsettings.json
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\bin\Debug\net6.0\EFCore_CodeFirst.deps.json
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\bin\Debug\net6.0\EFCore_CodeFirst.runtimeconfig.json
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\bin\Debug\net6.0\EFCore_CodeFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\bin\Debug\net6.0\EFCore_CodeFirst.pdb
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.csproj.AssemblyReference.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.AssemblyInfoInputs.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.AssemblyInfo.cs
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.csproj.CoreCompileInputs.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\refint\EFCore_CodeFirst.dll
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.pdb
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\EFCore_CodeFirst.genruntimeconfig.cache
+E:\Project.Net\ASP.net\EFCore_Test\EFCore_CodeFirst\obj\Debug\net6.0\ref\EFCore_CodeFirst.dll
